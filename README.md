@@ -1,4 +1,4 @@
-# Steps 
+# Steps
 
 _Physical therapy for the way you live today_
 
@@ -8,7 +8,7 @@ Check out our [walkthrough of the app](https://www.youtube.com/watch?v=m3esDy0-F
 
 [![Steps Demo Walkthrough | YouTube](./.github/youtube.png)](https://www.youtube.com/watch?v=m3esDy0-FOo)
 
-We also encourage you to expore our [live demo](https://steps-app.herokuapp.com/) with the following users:  
+We also encourage you to explore our [live demo](https://steps-app.herokuapp.com/) with the following users:  
 
 **Therapist**  
 Username: mcdreamy@steps.com  
@@ -16,7 +16,7 @@ Password: 1234
 
 **Patient**  
 Username: amanda@gmail.com  
-Password: 1234 
+Password: 1234
 
 [![Steps App](./.github/app.gif)](https://steps-app.herokuapp.com/)
 
