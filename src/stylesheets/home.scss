@@ -1,6 +1,3 @@
-@import "colors";
-@import "screens";
-
 #home {
   background-image: url('../images/home/StepsBackground.gif');
   background-repeat: no-repeat;
@@ -292,7 +289,7 @@
         &:hover { // hover over a single coder
           background: black;
           > img {
-            opacity: .2; // fade coder image
+            opacity: .2;
           }
           > .coder-data {
             display: flex;
